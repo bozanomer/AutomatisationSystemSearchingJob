@@ -7,3 +7,6 @@ linkedinsearchingjob file: I alwasy was having a look jobs requiring Python skil
  
  
  Be sure that your webdriver's location path should  be correct when webdriver is formed.I keep my driver in my Desktop >>>>> browser=webdriver.Chrome("/Users/OBO/Desktop/chromedriver") and selenim module is installed.
+ 
+ 
+ I did not enter my Linkedin credentials into here, that is why if you run this code, you are asked to enter your Linkedin credentials.However, working on my own, i have written my credentials into the file.  That is why my information is writtern automatically. You can reach a short video from here about this working: https://recordit.co/fFMyd24wQ6
