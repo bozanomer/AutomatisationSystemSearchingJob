@@ -1,7 +1,7 @@
 from selenium import webdriver
 import time
 from selenium.webdriver.common.keys import Keys
-browser=webdriver.Chrome("/Users/OBO/Desktop/chromedriver")
+browser=webdriver.Chrome("/Users/OBO/Desktop/chromedriver") # enter webdriver path
 browser.get("https://www.linkedin.com/home")
 browser.fullscreen_window()
 
