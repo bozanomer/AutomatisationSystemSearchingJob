@@ -11,8 +11,8 @@ time.sleep(3)
 email=browser.find_element_by_xpath("//*[@id='session_key']")
 password=browser.find_element_by_xpath("//*[@id='session_password']")
 
-email.send_keys(input("Please enter your e-mail:"))
-password.send_keys("Please enter your password:"")
+email.send_keys(input("Please enter your e-mail:") )
+password.send_keys(input("Please enter your password:"))
 
 time.sleep(3)
 
